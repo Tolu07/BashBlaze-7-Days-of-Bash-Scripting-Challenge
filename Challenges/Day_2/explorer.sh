@@ -9,6 +9,7 @@ while true; do
     ls -lh
 
     # Part 2: Character Counting
+    # I will add no text at first, then 4 characters which is my name Tolu to see
     read -p "Enter a line of text (Press Enter without text to exit): " input
 
     # Exit if the user enters an empty string
